@@ -1,0 +1,210 @@
+[
+    {
+        "id": 360630,
+        "name": "Cairo",
+        "coord": {
+            "lat": 30.0626,
+            "lon": 31.2497
+        },
+        "country": "EG"
+    },
+    {
+        "id": 361058,
+        "name": "Alexandria",
+        "coord": {
+            "lat": 31.2156,
+            "lon": 29.9553
+        },
+        "country": "EG"
+    },
+    {
+        "id": 360995,
+        "name": "Giza",
+        "coord": {
+            "lat":30.0081,
+            "lon": 31.2109
+        },
+        "country": "EG"
+    },
+    {
+        "id": 360761,
+        "name": "Mansoura",
+        "coord": {
+            "lat": 31.0376,
+            "lon": 31.3865
+        },
+        "country": "EG"
+    },
+    {
+        "id": 360502,
+        "name": "Luxor",
+        "coord": {
+            "lat": 25.6989,
+            "lon": 32.6421
+        },
+        "country": "EG"
+    },
+    {
+        "id": 358619,
+        "name": "Port Said",
+        "coord": {
+            "lat": 31.2565,
+            "lon":32.2841
+        },
+        "country": "EG"
+    },
+    {
+        "id": 358048,
+        "name": "Damietta",
+        "coord": {
+            "lat":31.4165 ,
+            "lon":31.8133
+        },
+        "country": "EG"
+    },
+    {
+        "id":355182 ,
+        "name": "South Sinai",
+        "coord": {
+            "lat": 29,
+            "lon":33.8
+        },
+        "country": "EG"
+    },
+    {
+        "id":347796 ,
+        "name": "Sohag",
+        "coord": {
+            "lat": 26.557,
+            "lon":31.6948
+        },
+        "country": "EG"
+    },
+    {
+        "id":359796 ,
+        "name": "Suez",
+        "coord": {
+            "lat":29.9737 ,
+            "lon":32.5263
+        },
+        "country": "EG"
+    },
+    {
+        "id":361468 ,
+        "name": "Red Sea",
+        "coord": {
+            "lat":27.1862 ,
+            "lon":33.7884
+        },
+        "country": "EG"
+    },
+    {
+        "id":347497 ,
+        "name": "Tanta",
+        "coord": {
+            "lat":30.7885 ,
+            "lon":31.0019
+        },
+        "country": "EG"
+    },
+    {
+        "id":359280 ,
+        "name": "Banhā",
+        "coord": {
+            "lat":30.4591 ,
+            "lon":31.1786
+        },
+        "country": "EG"
+    },
+    {
+        "id":359792 ,
+        "name": "Aswān",
+        "coord": {
+            "lat":24.0934 ,
+            "lon":32.907
+        },
+        "country": "EG"
+    },
+    {
+        "id":347591 ,
+        "name": "Ţalkhā",
+        "coord": {
+            "lat":31.0539 ,
+            "lon":31.3779
+        },
+        "country": "EG"
+    },
+    {
+        "id":346030 ,
+        "name": "Zefta",
+        "coord": {
+            "lat":30.7142 ,
+            "lon":31.2442
+        },
+        "country": "EG"
+    },
+    {
+        "id":358620 ,
+        "name": "Safaga",
+        "coord": {
+            "lat":26.7292 ,
+            "lon":33.9365
+        },
+        "country": "EG"
+    },
+    {
+        "id":361291 ,
+        "name": "Hurghada",
+        "coord": {
+            "lat":27.2574 ,
+            "lon":33.8129
+        },
+        "country": "EG"
+    },
+    {
+        "id":349340 ,
+        "name": "Sharm el Sheikh",
+        "coord": {
+            "lat":27.8518 ,
+            "lon":34.305
+        },
+        "country": "EG"
+    },
+    {
+        "id":352736 ,
+        "name": "Marsa Alam",
+        "coord": {
+            "lat":25.0757 ,
+            "lon":34.8918
+        },
+        "country": "EG"
+    },
+    {
+        "id":359783 ,
+        "name": "Assiut",
+        "coord": {
+            "lat":27.181 ,
+            "lon":31.1837
+        },
+        "country": "EG"
+    },
+    {
+        "id":360997 ,
+        "name": "th of October",
+        "coord": {
+            "lat":29.9723 ,
+            "lon":30.9409
+        },
+        "country": "EG"
+    },
+    {
+        "id":361320 ,
+        "name": "Faiyum",
+        "coord": {
+            "lat":29.3074 ,
+            "lon":30.8399
+        },
+        "country": "EG"
+    }
+
+]
